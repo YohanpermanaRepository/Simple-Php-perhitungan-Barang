@@ -1,0 +1,61 @@
+body{
+    background-image: url(bg.jpg);
+    color: white;
+    text-decoration: none;
+    font-family: Oswald;
+    margin-left: 400px;
+    width: 700px;
+}
+
+.judul{
+    background-color:#13294B ;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+
+.isi table{
+    background-color: rgb(105, 114, 98);
+    font-size: 20px;
+    width: 700px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.hasil{
+    padding-left: 15px;
+    background-color: aliceblue;
+    color: #000000;
+    width: 250px;
+    text-align: center;
+}
+.tombol1{
+    background-color:wheat;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.tombol2{
+    background-color: wheat;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.tombol1:hover{
+    background:rgb(255, 255, 255);
+    transition: 1s;
+}
+.tombol2:hover{
+    background:rgb(255, 255, 255);
+    transition: 1s;
+}
+.output table{
+    background-color: rgb(87, 77, 83);
+    font-size: 20px;
+    width: 700px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.output table input{
+    position: relative;
+    right: 80px;
+}
